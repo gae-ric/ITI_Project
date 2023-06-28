@@ -7,4 +7,5 @@
 - [Gaetano Ricucci]
 - [Carlo Sgorlon Gaiatto](https://github.com/carlosgorlongaiatto)
 
-  ![Alt Text]()
+  ![Alt Text](https://github.com/carlosgorlongaiatto/ITI_Project/blob/main/resources/GIFs/BO_1D.gif)
+  ![Alt Text](https://github.com/carlosgorlongaiatto/ITI_Project/blob/main/resources/GIFs/BO_2D.gif)
