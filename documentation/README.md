@@ -1,2 +1,2 @@
 [slides.pdf](./slides.pdf) \
-Slides containing additional visual information about the project.
+Slides describing the project in details.
