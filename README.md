@@ -7,5 +7,12 @@
 - [Gaetano Ricucci](https://github.com/gae-ric)
 - [Carlo Sgorlon Gaiatto](https://github.com/carlosgorlongaiatto)
 
+  ## Results:
+
   ![Alt Text](https://github.com/carlosgorlongaiatto/ITI_Project/blob/main/resources/GIFs/BO_1D.gif)
   ![Alt Text](https://github.com/carlosgorlongaiatto/ITI_Project/blob/main/resources/GIFs/BO_2D.gif)
+
+<div style="display: flex;">
+  <img src="./resources/GIFs/BO_1D.gif" alt="First GIF" width="400" />
+  <img src="./resources/GIFs/BO_2D.gif" alt="Second GIF" width="400" />
+</div>
