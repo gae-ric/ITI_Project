@@ -6,3 +6,5 @@
 - [Matteo Pedrazzi]
 - [Gaetano Ricucci]
 - [Carlo Sgorlon Gaiatto](https://github.com/carlosgorlongaiatto)
+
+  ![Alt Text]()
