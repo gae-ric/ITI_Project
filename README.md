@@ -13,5 +13,5 @@
 
 <div style="display: flex;">
   <img src="./resources/GIFs/BO_1D.gif" alt="First GIF" width="500" />
-  <img src="./resources/GIFs/BO_2D.gif" alt="Second GIF" width="600" />
+  <img src="./resources/GIFs/BO_2D.gif" alt="Second GIF" width="500" />
 </div>
