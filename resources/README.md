@@ -1,2 +1,2 @@
-[images](./images) \
-Folder containing images of relevant results.
+[images](./GIFs) \
+Folder containing GIFs of relevant results.
