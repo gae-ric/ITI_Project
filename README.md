@@ -15,5 +15,5 @@ Bayesian optimization of a 1D analytical function:
   
 Bayesian optimization of a 2D analytical function (negative Branin-Hoo function):
 <p align="center">
-  <img src="./resources/GIFs/BO_2D.gif" alt="BO_2D.gif" width="600" />
+  <img src="./resources/GIFs/BO_2D.gif" alt="BO_2D.gif" width="700" />
 </p>
