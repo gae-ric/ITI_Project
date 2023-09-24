@@ -2,7 +2,7 @@
 Notebook used to perform Bayesian optimization on a 1D analytical function.
 
 [obj_func_2D.ipynb](./obj_func_2D.ipynb) \
-Notebook used to perform Bayesian optimization on a 1D analytical function.
+Notebook used to perform Bayesian optimization on a 2D analytical function.
 
 [out_of_the_loop.py](./out_of_the_loop.py) \
 Python script used to implement all the classes needed to perform Bayesian optimization.
